@@ -1,2 +1,4 @@
 *.pyc
 *models
+tmp*
+*.sh
